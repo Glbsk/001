@@ -5,6 +5,3 @@ git commit -m "first commit"
 git remote add origin https://github.com/Glbsk/001.git
 git push -u origin master
 Начнём!
-http://guides.github.com/overviews/flow/
-https://help.github.com/articles/viewing-contributions
-http://github.com/explore
